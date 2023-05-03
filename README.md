@@ -62,10 +62,6 @@ Here are some ideas to get you started:
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
 <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img alt="OracleCloud" src ="https://img.shields.io/badge/OracleCloud-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/><br/>
-<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
-<img alt="Nginx" src ="https://img.shields.io/badge/Nginx-009639.svg?&style=for-the-badge&logo=Nginx&logoColor=white"/><br/>
-<img alt="Windows" src ="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
 <img alt="VSC" src ="https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/><br/>
 <br/><br/>
 </div>
